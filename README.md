@@ -1,4 +1,4 @@
-#Reversi Game
+# Reversi Game
 This is a simple implementation of the classic game Reversi, also known as Othello, designed as an object-oriented programming project in C# for the Advanced Object-Oriented Programming course.
 
 ##How to Play
