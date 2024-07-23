@@ -1,0 +1,16 @@
+D:\Development\Projects\CSharp\ReversiGame\bin\Debug\net8.0-windows\ReversiGame.exe
+D:\Development\Projects\CSharp\ReversiGame\bin\Debug\net8.0-windows\ReversiGame.deps.json
+D:\Development\Projects\CSharp\ReversiGame\bin\Debug\net8.0-windows\ReversiGame.runtimeconfig.json
+D:\Development\Projects\CSharp\ReversiGame\bin\Debug\net8.0-windows\ReversiGame.dll
+D:\Development\Projects\CSharp\ReversiGame\bin\Debug\net8.0-windows\ReversiGame.pdb
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\Reversi_game.Form1.resources
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\ReversiGame.csproj.GenerateResource.cache
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\ReversiGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\ReversiGame.AssemblyInfoInputs.cache
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\ReversiGame.AssemblyInfo.cs
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\ReversiGame.csproj.CoreCompileInputs.cache
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\ReversiGame.dll
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\refint\ReversiGame.dll
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\ReversiGame.pdb
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\ReversiGame.genruntimeconfig.cache
+D:\Development\Projects\CSharp\ReversiGame\obj\Debug\net8.0-windows\ref\ReversiGame.dll
